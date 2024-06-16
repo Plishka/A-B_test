@@ -2,14 +2,6 @@
 
 ## Project Description
 
-### Hypothesis
-
-- **Null Hypothesis (H0):**
-  There is no significant difference in the conversion rate between the original onboarding screen offering a weekly subscription at $4.99 and the alternative design offering the same subscription at a 50% discount. The percentage of users purchasing the subscription remains the same for both designs.
-  
-- **Alternative Hypothesis (H1):**
-  The alternative design with a 50% discount on the weekly subscription at $4.99 will result in a higher conversion rate compared to the original onboarding screen. Users presented with the discounted offer will be more likely to purchase the subscription than those presented with the original offer, indicating that the discount has a positive impact on user engagement and conversion.
-
 ### Test Description
 
 We conducted an A/B test to evaluate the impact of an alternative subscription page design on the conversion rate in a mobile application:
@@ -19,6 +11,14 @@ We conducted an A/B test to evaluate the impact of an alternative subscription p
   
 - **Alternative Design (Experimental Group B):**
   Users were presented with the same $4.99 weekly subscription offer but with a 50% discount.
+
+### Hypothesis
+
+- **Null Hypothesis (H0):**
+  There is no significant difference in the conversion rate between the original onboarding screen offering a weekly subscription at $4.99 and the alternative design offering the same subscription at a 50% discount. The percentage of users purchasing the subscription remains the same for both designs.
+  
+- **Alternative Hypothesis (H1):**
+  The alternative design with a 50% discount on the weekly subscription at $4.99 will result in a higher conversion rate compared to the original onboarding screen. Users presented with the discounted offer will be more likely to purchase the subscription than those presented with the original offer, indicating that the discount has a positive impact on user engagement and conversion.
 
 ### Key Metrics
 
